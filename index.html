@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Warshall's Algorithm - Stepwise</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <h1>Warshall's Algorithm - Stepwise Execution</h1>
+    <button id="themeToggle" onclick="toggleTheme()">Switch Theme</button>
+    <p>Enter adjacency matrix (use space-separated rows):</p>
+
+    <textarea id="matrixInput">0 1 0
+1 0 1
+0 0 0</textarea>
+    <br>
+    <button onclick="runWarshall()">Run Algorithm</button>
+
+    <div class="result" id="result"></div>
+    <script src="./index.js"></script>
+</body>
+
+</html>
