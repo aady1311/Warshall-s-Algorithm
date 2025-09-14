@@ -119,7 +119,7 @@ This approach enhances understanding and is ideal for students, teachers, and de
 
 ## 👨‍💻 Author
 
-Developed by **[Your Name]**  
+Developed by **Aditya Yadav**  
 Feel free to fork, use, or enhance this tool. Contributions welcome!
 
 ---
